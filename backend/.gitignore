@@ -1,0 +1,6 @@
+# Virtual environment
+venv310/
+
+english_emotion_text_classifier.pkl
+
+model_78.h5
