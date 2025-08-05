@@ -7,7 +7,7 @@ A full-stack application for detecting human emotions from facial expressions an
 ## Features
 
 - **Facial Emotion Detection:** Real-time emotion recognition from webcam or images.
-- **Text Emotion Detection:** Analyze and classify emotions from user-provided text.
+- **Text Emotion Detection:** Analyze and classify emotions from user-provided text (English and Tamil).
 - **Modern Frontend:** Built with React for a responsive user experience.
 - **RESTful Backend:** Flask API for model inference and orchestration.
 
@@ -41,13 +41,13 @@ emotion-detection-app/
 
 ### Prerequisites
 
-- **Python 3.8+** (for backend)
+- **Python 3.10** (for backend)
 - **Node.js 14+ & npm** (for frontend)
 
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/builderwarrior/EmoTrack.git
 cd emotion-detection-app
 ```
 
