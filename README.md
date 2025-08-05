@@ -121,8 +121,3 @@ This project is for educational purposes.
 
 ---
 
-## Acknowledgements
-
-- [DeepFace](https://github.com/serengil/deepface) for facial emotion recognition
-- [Flask](https://flask.palletsprojects.com/)
--
